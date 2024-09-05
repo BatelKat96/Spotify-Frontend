@@ -1,63 +1,64 @@
 import { storageService } from './async-storage.service'
-import { userService } from './user'
-import { makeId } from './util.service'
+import { userService } from './user.service'
+import { makeId, makeLorem, saveToStorage } from './util.service'
 
-const STORAGE_KEY = 'station'
+const STORAGE_KEY = 'playlist'
 
-export const stationService = {
+export const playlistService = {
     query,
     getById,
     save,
     remove,
-    createStation
+    createPlaylist
 }
-window.cs = stationService
+window.cs = playlistService
 
 
 async function query() {
-    let stations = await storageService.query(STORAGE_KEY)
-    if (!stations) stations = _createStations()
-    saveToStorage(STORAGE_KEY, stations)
-    return stations
+    let playlists = await storageService.query(STORAGE_KEY)
+    console.log('playlists:', playlists)
+    if (!playlists.length) playlists = _createPlaylists()
+    saveToStorage(STORAGE_KEY, playlists)
+    return playlists
 }
 
-function getById(stationId) {
-    return storageService.get(STORAGE_KEY, stationId)
+function getById(playlistId) {
+    return storageService.get(STORAGE_KEY, playlistId)
 }
 
-async function remove(stationId) {
-    await storageService.remove(STORAGE_KEY, stationId)
+async function remove(playlistId) {
+    await storageService.remove(STORAGE_KEY, playlistId)
 }
 
-async function save(station) {
-    var savedStation
-    if (station._id) {
-        const stationToSave = {
-            _id: station._id,
-            title: station.title,
-            songs: station.songs,
-            desc: station.desc,
+async function save(playlist) {
+    var savedPlaylist
+    if (playlist._id) {
+        const playlistToSave = {
+            _id: playlist._id,
+            title: playlist.title,
+            songs: playlist.songs,
+            desc: playlist.desc,
         }
-        savedStation = await storageService.put(STORAGE_KEY, stationToSave)
+        savedPlaylist = await storageService.put(STORAGE_KEY, playlistToSave)
     } else {
-        const stationToSave = {
-            title: station.title,
-            songs: station.songs,
-            desc: station.desc,
+        const playlistToSave = {
+            title: playlist.title,
+            songs: playlist.songs,
+            desc: playlist.desc,
             owner: userService.getLoggedinUser(),
-            songs: station.songs,
+            songs: playlist.songs,
         }
-        savedStation = await storageService.post(STORAGE_KEY, stationToSave)
+        savedPlaylist = await storageService.post(STORAGE_KEY, playlistToSave)
     }
-    return savedStation
+    return savedPlaylist
 }
 
-function _createStations() {
-    [
+function _createPlaylists() {
+    return [
         {
             _id: makeId(),
             title: 'Funky Monks',
-            imgUrl: 'https://robohash.org?1',
+            imgUrl: 'https://robohash.org/1',
             desc: makeLorem(15),
             tags: [
                 'Funk',
@@ -98,7 +99,7 @@ function _createStations() {
         {
             _id: makeId(),
             title: 'Top Hip Hop',
-            imgUrl: 'https://robohash.org?2',
+            imgUrl: 'https://robohash.org/2',
             desc: makeLorem(13),
             tags: [
                 'Hiphop',
@@ -139,7 +140,7 @@ function _createStations() {
     ]
 }
 
-function createStation(title, imgUrl, desc) {
+function createPlaylist(title, imgUrl, desc) {
     return {
         title: title,
         imgUrl: imgUrl || 'https://robohash.org?1',
