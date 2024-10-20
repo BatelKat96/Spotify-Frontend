@@ -9,7 +9,7 @@ html {
 body {
     margin: 0 auto;
     padding: 8px;
-    font-family: circular-std-light;
+    font-family: circular-std-light, helvetica;
     font-size: rem(14px);
     background-color: $bgclr1;
     height: 100vh;
@@ -26,6 +26,8 @@ main {
     border-radius: 8px;
     display: grid;
     grid-template-rows: 64px 1fr;
+    padding: 11px;
+    overflow-y: auto;
 }
 
 h1,

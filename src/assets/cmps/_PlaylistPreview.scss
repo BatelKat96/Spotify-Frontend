@@ -1,0 +1,36 @@
+.playlist-preview {
+    padding: 12px;
+    border-radius: 6px;
+
+
+    img {
+        border-radius: 6px;
+        margin-block-end: 8px;
+    }
+
+    .playlist-title {
+        font-size: 16px;
+        margin-block-end: 2px;
+        line-height: normal;
+
+        &:hover {
+            cursor: pointer;
+            text-decoration: underline;
+        }
+    }
+
+    .playlist-description {
+        color: $clr2;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        margin: 0;
+    }
+
+    &:hover {
+        background-color: $btnclr1-hover;
+        cursor: pointer;
+    }
+}

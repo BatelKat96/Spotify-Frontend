@@ -37,11 +37,26 @@ async function getSpotifyData(reqType, id, searchType) {
             },
         })
         console.log('res.data:', res.data)
+        // console.log('res.data:', cleanPlaylistData(res.data.playlists.items))
+
+
 
     }
     catch (error) {
         console.error('Error:', error.response ? error.response.data : error.message)
     }
+}
+
+
+function cleanPlaylistData(playlists) {
+    return playlists.map(playlist => {
+        return {
+            description: playlist.description,
+            id: playlist.id,
+            url: playlist.images[0]?.url || '',  // Handles case if images array is empty
+            name: playlist.name
+        };
+    });
 }
 
 

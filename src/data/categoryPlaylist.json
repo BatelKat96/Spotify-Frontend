@@ -72,49 +72,49 @@
         {
             "description": "The biggest songs of the 1990s. Cover: The Cardigans",
             "_id": "37i9dQZF1DXbTxeAdrVG2l",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f00000002b60e6f68fd3a593011380bf8",
+            "imgUrl": "https://i.scdn.co/image/ab67706f00000002b60e6f68fd3a593011380bf8",
             "title": "All Out 90s"
         },
         {
             "description": "Rewind and unwind with sirens of the seventies and eighties.",
             "_id": "37i9dQZF1DX0JKUIfwQSJh",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f00000002ad5378ef4192257d82676b7f",
+            "imgUrl": "https://i.scdn.co/image/ab67706f00000002ad5378ef4192257d82676b7f",
             "title": "70s & 80s Acoustic"
         },
         {
             "description": "The biggest songs of the 2000s. Cover: The Killers",
             "_id": "37i9dQZF1DX4o1oenSJRJd",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f00000002c900fae23e2a3cf42b0e1556",
+            "imgUrl": "https://i.scdn.co/image/ab67706f00000002c900fae23e2a3cf42b0e1556",
             "title": "All Out 2000s"
         },
         {
             "description": "Mellow songs from the 1980s. Cover: Tina Turner",
             "_id": "37i9dQZF1DX4WELsJtFZjZ",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f000000025dfb78be17a842867ef21a9f",
+            "imgUrl": "https://i.scdn.co/image/ab67706f000000025dfb78be17a842867ef21a9f",
             "title": "Soft 80s"
         },
         {
             "description": "Mellow songs from the 90s. Cover: Mariah Carey",
             "_id": "37i9dQZF1DX2syo5w7a1cu",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f00000002a2c711a42da1ca15bcc06a77",
+            "imgUrl": "https://i.scdn.co/image/ab67706f00000002a2c711a42da1ca15bcc06a77",
             "title": "Soft 90s"
         },
         {
             "description": "The biggest party hits of the 1980s. Cover: Cyndi Lauper",
             "_id": "37i9dQZF1DX6xnkAwJX7tn",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f000000028e6b9a53f7c37210a843ab0a",
+            "imgUrl": "https://i.scdn.co/image/ab67706f000000028e6b9a53f7c37210a843ab0a",
             "title": "80s Party"
         },
         {
             "description": "The biggest songs of the 1970s. Cover: ABBA",
             "_id": "37i9dQZF1DWTJ7xPn4vNaz",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f0000000241a94d08ee017512668505a3",
+            "imgUrl": "https://i.scdn.co/image/ab67706f0000000241a94d08ee017512668505a3",
             "title": "All Out 70s"
         },
         {
             "description": "The biggest party hits of the 2000s. Cover: Shakira.",
             "_id": "37i9dQZF1DX7e8TjkFNKWH",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f00000002abf84d549f87ed110df1b750",
+            "imgUrl": "https://i.scdn.co/image/ab67706f00000002abf84d549f87ed110df1b750",
             "title": "Party Hits 2000s"
         },
         {
@@ -124,7 +124,7 @@
             "title": "Soft 10s"
         }
     ],
-    "hip-hop": [
+    "hiphop": [
         {
             "description": "Music from Future, Playboi Carti and Real Boston Richey. ",
             "_id": "37i9dQZF1DX0XUsuxWHRQd",
@@ -158,7 +158,7 @@
         {
             "description": "Energy tracks to get your beast mode on.",
             "_id": "37i9dQZF1DX9oh43oAzkyx",
-            "imgUrl": "https: //i.scdn.co/image/ab67706f00000002d2d1cbd94520146a3fecc8fd",
+            "imgUrl": "https://i.scdn.co/image/ab67706f00000002d2d1cbd94520146a3fecc8fd",
             "title": "Beast Mode Hip-Hop"
         },
         {
