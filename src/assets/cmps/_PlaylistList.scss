@@ -1,4 +1,6 @@
 .playlist-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    margin-block-end: 24px;
+
 }
