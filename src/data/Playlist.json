@@ -1,0 +1,1741 @@
+[
+    {
+        "spotifyId": "37i9dQZF1DWSYF6geMtQMW",
+        "name": "הלהיטים הגדולים של ישראל",
+        "imgUrl": "https://i.scdn.co/image/ab67706f0000000282037a761a6c9308bb09088f",
+        "description": "הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר. קאבר: סטטיק  ",
+        "owner": {
+            "fullname": "Tuneify"
+        },
+        "tracks": [
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "3CZdlwKHGTvfveatbfKD3q",
+                "title": "תמיד אוהב אותי",
+                "artists": [
+                    {
+                        "name": "ששון איפרם שאולוב",
+                        "spotifyId": "1Wq2STGiL7ZaIHAm5jMakc"
+                    }
+                ],
+                "artistId": "1Wq2STGiL7ZaIHAm5jMakc",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a2a0de71d74bafdae0c981f5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a2a0de71d74bafdae0c981f5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a2a0de71d74bafdae0c981f5",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 172694,
+                "album": "תמיד אוהב אותי",
+                "albumId": "1YdxoBErtg9MusUuZ6hjSp",
+                "youtubeId": "rgSvk335zis"
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "78FrkrO3KgizjXDObyFvzW",
+                "title": "צ'יק צ'ק",
+                "artists": [
+                    {
+                        "name": "Static",
+                        "spotifyId": "5Ea0d3mUECVaMf8h2DTehE"
+                    }
+                ],
+                "artistId": "5Ea0d3mUECVaMf8h2DTehE",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27381f82acb241a5b10f03b9741",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0281f82acb241a5b10f03b9741",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485181f82acb241a5b10f03b9741",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 132380,
+                "album": "צ'יק צ'ק",
+                "albumId": "6CPaapRNDzWiDB80rxJ2cn",
+                "youtubeId": "OAcuQp-lzhw"
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1ChZJDdEU5tR4ZrLeuDh5u",
+                "title": "לופ",
+                "artists": [
+                    {
+                        "name": "Osher Cohen",
+                        "spotifyId": "2LUB7PhWK2j2obgSTeD3GN"
+                    }
+                ],
+                "artistId": "2LUB7PhWK2j2obgSTeD3GN",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731dd2730391bcfb461cb146dd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021dd2730391bcfb461cb146dd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511dd2730391bcfb461cb146dd",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 163213,
+                "album": "לופ",
+                "albumId": "4uWf4XvMwY5r4SQo3IVm2L",
+                "youtubeId": "dNQoTRUNQuU"
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "4L5Uj4Dt6rjFL0H7hl2qHF",
+                "title": "עברנו הכל",
+                "artists": [
+                    {
+                        "name": "Omer Adam",
+                        "spotifyId": "1IAEef07H0fd9aA8aUHUlL"
+                    }
+                ],
+                "artistId": "1IAEef07H0fd9aA8aUHUlL",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27340d0de9204a1ba8f2ec76cf9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0240d0de9204a1ba8f2ec76cf9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485140d0de9204a1ba8f2ec76cf9",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 195238,
+                "album": "עברנו הכל",
+                "albumId": "3PIMlTzSQFaYRYcsD2pwPn",
+                "youtubeId": "N7zMIrriszM"
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2edVP7ujjhYSoZ308dpEpW",
+                "title": "בן אדם",
+                "artists": [
+                    {
+                        "name": "אודיה",
+                        "spotifyId": "28jEBK1RysfSUBHFofFflA"
+                    }
+                ],
+                "artistId": "28jEBK1RysfSUBHFofFflA",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731ff7a050c7e40dca081939a6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021ff7a050c7e40dca081939a6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511ff7a050c7e40dca081939a6",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 193278,
+                "album": "בן אדם",
+                "albumId": "6Bd4Gvr0EKVYMGY56D2Az8",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "5nYFRLTLrqiETyy6LUPfhQ",
+                "title": "מגדלים",
+                "artists": [
+                    {
+                        "name": "סטילה",
+                        "spotifyId": "7lwdlhwSxbB36wqnOwo5Kd"
+                    },
+                    {
+                        "name": "Ness",
+                        "spotifyId": "2ygecp3YQJwBHL7LNzDgwe"
+                    }
+                ],
+                "artistId": "7lwdlhwSxbB36wqnOwo5Kd",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b8b761832d2b6addb886aed7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b8b761832d2b6addb886aed7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b8b761832d2b6addb886aed7",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 154615,
+                "album": "מגדלים",
+                "albumId": "4I1R7WUWt5wAIbaw9NXKvk",
+                "youtubeId": "OAcuQp-lzhw"
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2QkVXq7dLpefWAiETsvIOs",
+                "title": "אהובתי כבר לא רואה אותי",
+                "artists": [
+                    {
+                        "name": "Omer Adam",
+                        "spotifyId": "1IAEef07H0fd9aA8aUHUlL"
+                    }
+                ],
+                "artistId": "1IAEef07H0fd9aA8aUHUlL",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273635571e4dbe218b57bf5c1ff",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02635571e4dbe218b57bf5c1ff",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851635571e4dbe218b57bf5c1ff",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 190500,
+                "album": "לחנים שבורים",
+                "albumId": "6qBbLMrB32FOw0uitKl2RR",
+                "youtubeId": "N7zMIrriszM"
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1hLd6flq2cPLvH2Xraimbu",
+                "title": "תסביכים קשים",
+                "artists": [
+                    {
+                        "name": "שירז אברהם",
+                        "spotifyId": "7o5IkQicos4SrXeny1LOZr"
+                    }
+                ],
+                "artistId": "7o5IkQicos4SrXeny1LOZr",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f291614a394664cd2bf0da7d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f291614a394664cd2bf0da7d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f291614a394664cd2bf0da7d",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 149610,
+                "album": "תסביכים קשים",
+                "albumId": "6tJIOkFAGaCfJS1AwSq4Ip",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "4Od2pzQuJXMpaClr2IwxjR",
+                "title": "עובד בכפר",
+                "artists": [
+                    {
+                        "name": "אודיה",
+                        "spotifyId": "28jEBK1RysfSUBHFofFflA"
+                    }
+                ],
+                "artistId": "28jEBK1RysfSUBHFofFflA",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734f121f7a1672720ea2c487e3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024f121f7a1672720ea2c487e3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514f121f7a1672720ea2c487e3",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 182439,
+                "album": "עובד בכפר",
+                "albumId": "63aFSZxyANJzJYu4dQCLrw",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "0D9A15ZzO3VzLIYqOfm6QB",
+                "title": "אני חוזר",
+                "artists": [
+                    {
+                        "name": "מ'",
+                        "spotifyId": "36TG4OFhKuCHnTFCa6BEh7"
+                    }
+                ],
+                "artistId": "36TG4OFhKuCHnTFCa6BEh7",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27350eb947855d1b830c8dac0ec",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0250eb947855d1b830c8dac0ec",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485150eb947855d1b830c8dac0ec",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 197687,
+                "album": "לחזור הביתה",
+                "albumId": "5DpY1nWjxRmf3E0AbrG7po",
+                "youtubeId": "QzDpV_8HVXk"
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "34KzX8fwFPLchmOvYBDap0",
+                "title": "אין אותי",
+                "artists": [
+                    {
+                        "name": "Osher Cohen",
+                        "spotifyId": "2LUB7PhWK2j2obgSTeD3GN"
+                    },
+                    {
+                        "name": "Noa Kirel",
+                        "spotifyId": "1wak0ZG1LUrZPYx8RDTQoD"
+                    }
+                ],
+                "artistId": "2LUB7PhWK2j2obgSTeD3GN",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27320a23f9af4b3730119b96322",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0220a23f9af4b3730119b96322",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485120a23f9af4b3730119b96322",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 208883,
+                "album": "NEXT EPISODE",
+                "albumId": "0uMnrRUIr5sxcatkqn3tOt",
+                "youtubeId": "h3iqvIWAfck"
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "37ZPaitKESRLXRkjrvJVTb",
+                "title": "נרקומן של בדידות",
+                "artists": [
+                    {
+                        "name": "Omer Adam",
+                        "spotifyId": "1IAEef07H0fd9aA8aUHUlL"
+                    }
+                ],
+                "artistId": "1IAEef07H0fd9aA8aUHUlL",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273635571e4dbe218b57bf5c1ff",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02635571e4dbe218b57bf5c1ff",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851635571e4dbe218b57bf5c1ff",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 137299,
+                "album": "לחנים שבורים",
+                "albumId": "6qBbLMrB32FOw0uitKl2RR",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "7AlqKFiOM5X7nJdtbwvsi6",
+                "title": "דאמ",
+                "artists": [
+                    {
+                        "name": "Jasmin Moallem",
+                        "spotifyId": "3cDi1D2FHMVgljfdB1QVgr"
+                    }
+                ],
+                "artistId": "3cDi1D2FHMVgljfdB1QVgr",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f92104b2f5bb1638225f758f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f92104b2f5bb1638225f758f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f92104b2f5bb1638225f758f",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 169322,
+                "album": "דאמ",
+                "albumId": "71eXZyUAobK32JZ1YnFwKo",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "3FihyZ7YA7vrNiSUfWww10",
+                "title": "באמפרים",
+                "artists": [
+                    {
+                        "name": "סטילה",
+                        "spotifyId": "7lwdlhwSxbB36wqnOwo5Kd"
+                    },
+                    {
+                        "name": "Ness",
+                        "spotifyId": "2ygecp3YQJwBHL7LNzDgwe"
+                    }
+                ],
+                "artistId": "7lwdlhwSxbB36wqnOwo5Kd",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cef99adb7e9fc45697d1ca88",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cef99adb7e9fc45697d1ca88",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851cef99adb7e9fc45697d1ca88",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 147000,
+                "album": "באמפרים",
+                "albumId": "68jOubWGq2KpQexGxt6lP6",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2plbrEY59IikOBgBGLjaoe",
+                "title": "Die With A Smile",
+                "artists": [
+                    {
+                        "name": "Lady Gaga",
+                        "spotifyId": "1HY2Jd0NmPuamShAr6KMms"
+                    },
+                    {
+                        "name": "Bruno Mars",
+                        "spotifyId": "0du5cEVh5yTK9QJze8zA0C"
+                    }
+                ],
+                "artistId": "1HY2Jd0NmPuamShAr6KMms",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485182ea2e9e1858aa012c57cd45",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 251667,
+                "album": "Die With A Smile",
+                "albumId": "10FLjwfpbxLmW8c25Xyc2N",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "0h8eZd7eqwZISaz9bkj1zV",
+                "title": "מערב ראשון",
+                "artists": [
+                    {
+                        "name": "Itay Levi",
+                        "spotifyId": "6VdxGMRiiFQhI8F0FkuQZg"
+                    }
+                ],
+                "artistId": "6VdxGMRiiFQhI8F0FkuQZg",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732960eb7b774db6a0ec5c62de",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022960eb7b774db6a0ec5c62de",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512960eb7b774db6a0ec5c62de",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 204078,
+                "album": "מערב ראשון",
+                "albumId": "63Q72WL2bpq0jxbqIOKXeN",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1BJJbSX6muJVF2AK7uH1x4",
+                "title": "Move",
+                "artists": [
+                    {
+                        "name": "Adam Port",
+                        "spotifyId": "2loEsOijJ6XiGzWYFXMIRk"
+                    },
+                    {
+                        "name": "Stryv",
+                        "spotifyId": "6XjgqvaVLUib6lCerbZrYD"
+                    },
+                    {
+                        "name": "Keinemusik",
+                        "spotifyId": "26WKgv73kRHD0gEDKD1i8j"
+                    },
+                    {
+                        "name": "Orso",
+                        "spotifyId": "2yyaNPcdxZcn4iutCcLMaC"
+                    },
+                    {
+                        "name": "Malachiii",
+                        "spotifyId": "37lTKHi901VnwngQ7C8noT"
+                    }
+                ],
+                "artistId": "2loEsOijJ6XiGzWYFXMIRk",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a959d221820e650bee1ca487",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a959d221820e650bee1ca487",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a959d221820e650bee1ca487",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 177598,
+                "album": "Move",
+                "albumId": "4M8ThNHbNjda2cPwL8XZHS",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "5FQCwtsC3YanKJzpfkvnDt",
+                "title": "שותפה שלי",
+                "artists": [
+                    {
+                        "name": "Moshiko Mor",
+                        "spotifyId": "6KskOtymSG2RrswMdNC2zC"
+                    }
+                ],
+                "artistId": "6KskOtymSG2RrswMdNC2zC",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f3317491c42cc0c57426e543",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f3317491c42cc0c57426e543",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f3317491c42cc0c57426e543",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 174375,
+                "album": "שותפה שלי",
+                "albumId": "1nK8LOQ8nZYsFwOHF7PyUu",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "0io16MKpbeDIdYzmGpQaES",
+                "title": "Embrace It",
+                "artists": [
+                    {
+                        "name": "Ndotz",
+                        "spotifyId": "5HK6QtizXJzCmoYTkvFRik"
+                    }
+                ],
+                "artistId": "5HK6QtizXJzCmoYTkvFRik",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273536637d541ec8a43842ef126",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02536637d541ec8a43842ef126",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851536637d541ec8a43842ef126",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 104418,
+                "album": "Embrace It",
+                "albumId": "0mV9Pfr1GfoZLkp1EAau9P",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "4zXfQYhcSboWEOAwIQST9N",
+                "title": "רק שלך",
+                "artists": [
+                    {
+                        "name": "Omer Adam",
+                        "spotifyId": "1IAEef07H0fd9aA8aUHUlL"
+                    }
+                ],
+                "artistId": "1IAEef07H0fd9aA8aUHUlL",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e14295d1a6eebd53fd6223dd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e14295d1a6eebd53fd6223dd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e14295d1a6eebd53fd6223dd",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 234844,
+                "album": "חמישה לילות",
+                "albumId": "1qjdpHH3JbWR9ZTGRjjoRs",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "6qB33ch9RK0aoMfxfnlXa1",
+                "title": "פלסטרים",
+                "artists": [
+                    {
+                        "name": "Osher Cohen",
+                        "spotifyId": "2LUB7PhWK2j2obgSTeD3GN"
+                    }
+                ],
+                "artistId": "2LUB7PhWK2j2obgSTeD3GN",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27340eb76ca31d27e1dcca8a1b9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0240eb76ca31d27e1dcca8a1b9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485140eb76ca31d27e1dcca8a1b9",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 178236,
+                "album": "פלסטרים",
+                "albumId": "4qEuEcv48zeatrNOxGHStV",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "3QaPy1KgI7nu9FJEQUgn6h",
+                "title": "WILDFLOWER",
+                "artists": [
+                    {
+                        "name": "Billie Eilish",
+                        "spotifyId": "6qqNVTkY8uBg9cP3Jd7DAH"
+                    }
+                ],
+                "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 261466,
+                "album": "HIT ME HARD AND SOFT",
+                "albumId": "7aJuG4TFXa2hmE4z1yxc3n",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "6YQpTZk61Ku0hyutsVLpPe",
+                "title": "חיפשתי אותו בנרות",
+                "artists": [
+                    {
+                        "name": "Eden Ben Zaken",
+                        "spotifyId": "2eUKkTNZsIuZzV95DM0cbt"
+                    }
+                ],
+                "artistId": "2eUKkTNZsIuZzV95DM0cbt",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27349029a5059a468c1bfdd450f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0249029a5059a468c1bfdd450f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485149029a5059a468c1bfdd450f",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 217183,
+                "album": "דם שלי",
+                "albumId": "2AupKgY0rxBU9UsJuAlilU",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "6Xg2Ir8Go9giAzRxW4Jaze",
+                "title": "גיבורי על",
+                "artists": [
+                    {
+                        "name": "Hatikva 6",
+                        "spotifyId": "3umXlcgiDTcCRkvPVobeJc"
+                    }
+                ],
+                "artistId": "3umXlcgiDTcCRkvPVobeJc",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27308c24250910199a70c84c70b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0208c24250910199a70c84c70b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485108c24250910199a70c84c70b",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 187179,
+                "album": "גיבורי על",
+                "albumId": "51I9fo6Ywk6O8vMnq4Oige",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1Jx6aZyJR985kw8CWUZ15O",
+                "title": "צמוד צמוד",
+                "artists": [
+                    {
+                        "name": "Omer Adam",
+                        "spotifyId": "1IAEef07H0fd9aA8aUHUlL"
+                    },
+                    {
+                        "name": "אודיה",
+                        "spotifyId": "28jEBK1RysfSUBHFofFflA"
+                    },
+                    {
+                        "name": "ShrekDiMC",
+                        "spotifyId": "01r7peBt7lJhz42nE04rpM"
+                    }
+                ],
+                "artistId": "1IAEef07H0fd9aA8aUHUlL",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734c2cbbed96747d44c3fe0816",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024c2cbbed96747d44c3fe0816",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514c2cbbed96747d44c3fe0816",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 163464,
+                "album": "צמוד צמוד",
+                "albumId": "6HScIxtqplEa92gqOUiVsh",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "0Wr6wZgEP1npYg0vrsWPIZ",
+                "title": "רוז",
+                "artists": [
+                    {
+                        "name": "Peer Tasi",
+                        "spotifyId": "24HI9hevLjIQtj7xp2CeHs"
+                    }
+                ],
+                "artistId": "24HI9hevLjIQtj7xp2CeHs",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27364262898e2dc5b99349e5b15",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0264262898e2dc5b99349e5b15",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485164262898e2dc5b99349e5b15",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 224000,
+                "album": "רדיו שטח 2",
+                "albumId": "1PWujNSVmbVLoY0CbewwWq",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "17Gbwxyhsj0dznw9DSruNC",
+                "title": "ראיתי עולם",
+                "artists": [
+                    {
+                        "name": "Omer Adam",
+                        "spotifyId": "1IAEef07H0fd9aA8aUHUlL"
+                    },
+                    {
+                        "name": "ShrekDiMC",
+                        "spotifyId": "01r7peBt7lJhz42nE04rpM"
+                    }
+                ],
+                "artistId": "1IAEef07H0fd9aA8aUHUlL",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27359a73ea4e3ee1f6c5dda0e03",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0259a73ea4e3ee1f6c5dda0e03",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485159a73ea4e3ee1f6c5dda0e03",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 189000,
+                "album": "ראיתי עולם",
+                "albumId": "2m1EMFkXRlno32qXazTOjN",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "4EN9nGt9TWutt0iDTRnXjY",
+                "title": "כוכבים",
+                "artists": [
+                    {
+                        "name": "שילה בן סעדון",
+                        "spotifyId": "25121FSeQqqD3El2C3t9L1"
+                    }
+                ],
+                "artistId": "25121FSeQqqD3El2C3t9L1",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f6c374196b2cc81eab7771f2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f6c374196b2cc81eab7771f2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f6c374196b2cc81eab7771f2",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 202000,
+                "album": "כוכבים",
+                "albumId": "14Ve7iPxyRWwM0tA3KHIhi",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "5vNRhkKd0yEAg8suGBpjeY",
+                "title": "APT.",
+                "artists": [
+                    {
+                        "name": "ROSÉ",
+                        "spotifyId": "3eVa5w3URK5duf6eyVDbu9"
+                    },
+                    {
+                        "name": "Bruno Mars",
+                        "spotifyId": "0du5cEVh5yTK9QJze8zA0C"
+                    }
+                ],
+                "artistId": "3eVa5w3URK5duf6eyVDbu9",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f8c8297efc6022534f1357e1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f8c8297efc6022534f1357e1",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 169917,
+                "album": "APT.",
+                "albumId": "2IYQwwgxgOIn7t3iF6ufFD",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2yPnlfwQ1AmhHauqQWDlWZ",
+                "title": "מנגן ושר",
+                "artists": [
+                    {
+                        "name": "Osher Cohen",
+                        "spotifyId": "2LUB7PhWK2j2obgSTeD3GN"
+                    }
+                ],
+                "artistId": "2LUB7PhWK2j2obgSTeD3GN",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d3f6921c5c47cb7871521494",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d3f6921c5c47cb7871521494",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d3f6921c5c47cb7871521494",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 201080,
+                "album": "THE LAST EPISODE",
+                "albumId": "2IzZ7kCHqTyRuCo5jWGvxY",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "0tewqHTtZMfb7sPsqTyRVc",
+                "title": "מרכז תל אביב",
+                "artists": [
+                    {
+                        "name": "Itay Levi",
+                        "spotifyId": "6VdxGMRiiFQhI8F0FkuQZg"
+                    }
+                ],
+                "artistId": "6VdxGMRiiFQhI8F0FkuQZg",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737cbfa1a11f0d2b2ae5d553d4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027cbfa1a11f0d2b2ae5d553d4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517cbfa1a11f0d2b2ae5d553d4",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 210000,
+                "album": "מרכז תל אביב",
+                "albumId": "4o5Wgzg4laP9t7uKsNWAOu",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2WDgnb44mEO7gWUtECuNLJ",
+                "title": "מכשפה",
+                "artists": [
+                    {
+                        "name": "Static",
+                        "spotifyId": "5Ea0d3mUECVaMf8h2DTehE"
+                    },
+                    {
+                        "name": "Adi Bity",
+                        "spotifyId": "6wmkSxRAKlQl86DzjXRUMh"
+                    }
+                ],
+                "artistId": "5Ea0d3mUECVaMf8h2DTehE",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731821551fb34eb28a9e44e6a5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021821551fb34eb28a9e44e6a5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511821551fb34eb28a9e44e6a5",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 138496,
+                "album": "להרים",
+                "albumId": "5d2zNtTFTHLMOmSZw3SFCC",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "6g84RaMubeO44LyTDghqUB",
+                "title": "נאדי באדי",
+                "artists": [
+                    {
+                        "name": "שחר טבוך",
+                        "spotifyId": "3uwJWwjkS3wKPICQ2ZztuC"
+                    },
+                    {
+                        "name": "Agam Buhbut",
+                        "spotifyId": "3JPKPnzWJGjccn8SnjwA5i"
+                    }
+                ],
+                "artistId": "3uwJWwjkS3wKPICQ2ZztuC",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273436d7fcc6c3bba5ce98019c2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02436d7fcc6c3bba5ce98019c2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851436d7fcc6c3bba5ce98019c2",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 150420,
+                "album": "נאדי באדי",
+                "albumId": "79JwxRq2qhfLrvxl7s03pR",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "6usohdchdzW9oML7VC4Uhk",
+                "title": "Lose Control",
+                "artists": [
+                    {
+                        "name": "Teddy Swims",
+                        "spotifyId": "33qOK5uJ8AR2xuQQAhHump"
+                    }
+                ],
+                "artistId": "33qOK5uJ8AR2xuQQAhHump",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731d856e66d33e22746c21a09c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021d856e66d33e22746c21a09c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511d856e66d33e22746c21a09c",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 210688,
+                "album": "Lose Control",
+                "albumId": "5QMiub2LonMqxB7dhtbPlX",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1QoyuMHNBe7lg3YW4Qtll4",
+                "title": "St. Chroma (feat. Daniel Caesar)",
+                "artists": [
+                    {
+                        "name": "Tyler, The Creator",
+                        "spotifyId": "4V8LLVI7PbaPR0K2TGSxFF"
+                    },
+                    {
+                        "name": "Daniel Caesar",
+                        "spotifyId": "20wkVLutqVOYrc0kxFs7rA"
+                    }
+                ],
+                "artistId": "4V8LLVI7PbaPR0K2TGSxFF",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02124e9249fada4ff3c3a0739c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851124e9249fada4ff3c3a0739c",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 197019,
+                "album": "CHROMAKOPIA",
+                "albumId": "0U28P0QVB1QRxpqp5IHOlH",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1jCAwxwhHIrtWzGeF6WfJ7",
+                "title": "פחד אלוהים",
+                "artists": [
+                    {
+                        "name": "Kfir Tsafrir",
+                        "spotifyId": "7MKSeamhiRpa0xiS4FHGSC"
+                    }
+                ],
+                "artistId": "7MKSeamhiRpa0xiS4FHGSC",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273eff02d3bf4623e7a7fa02652",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02eff02d3bf4623e7a7fa02652",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851eff02d3bf4623e7a7fa02652",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 169000,
+                "album": "פחד אלוהים",
+                "albumId": "4v1hZbW6AmjiTcYuRbXfmB",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "5vrzcGVyLeru7vHm89EvRr",
+                "title": "אין מרחק בינינו",
+                "artists": [
+                    {
+                        "name": "Eden Hason",
+                        "spotifyId": "6uQl3gu1AIXyvqCAxnc2q4"
+                    }
+                ],
+                "artistId": "6uQl3gu1AIXyvqCAxnc2q4",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b54bb9c40ae1b1a17da4f31f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b54bb9c40ae1b1a17da4f31f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b54bb9c40ae1b1a17da4f31f",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 180000,
+                "album": "אין מרחק בינינו",
+                "albumId": "7BdsF83eS87kdszoELUDcO",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "7rdPtMBZmQpSBraOq8ppuI",
+                "title": "למה את?",
+                "artists": [
+                    {
+                        "name": "ילד.",
+                        "spotifyId": "0WfHRTAUTncteWfXm917EG"
+                    }
+                ],
+                "artistId": "0WfHRTAUTncteWfXm917EG",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fd70005fd2cfeea41b3b6fca",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fd70005fd2cfeea41b3b6fca",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fd70005fd2cfeea41b3b6fca",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 193000,
+                "album": "למה את?",
+                "albumId": "4bJP264v4vbf2y7HY9bCHk",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "6dOtVTDdiauQNBQEDOtlAB",
+                "title": "BIRDS OF A FEATHER",
+                "artists": [
+                    {
+                        "name": "Billie Eilish",
+                        "spotifyId": "6qqNVTkY8uBg9cP3Jd7DAH"
+                    }
+                ],
+                "artistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 210373,
+                "album": "HIT ME HARD AND SOFT",
+                "albumId": "7aJuG4TFXa2hmE4z1yxc3n",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2qSkIjg1o9h3YT9RAgYN75",
+                "title": "Espresso",
+                "artists": [
+                    {
+                        "name": "Sabrina Carpenter",
+                        "spotifyId": "74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "artistId": "74KM79TiuVKeVCqs8QtB0B",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02659cd4673230913b3918e0d5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851659cd4673230913b3918e0d5",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 175459,
+                "album": "Espresso",
+                "albumId": "5quMTd5zeI9yW5UDua8wS4",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2CUwpTA4gOSouCTyRN1vnE",
+                "title": "אין לי מקום אחר",
+                "artists": [
+                    {
+                        "name": "Itay Levi",
+                        "spotifyId": "6VdxGMRiiFQhI8F0FkuQZg"
+                    }
+                ],
+                "artistId": "6VdxGMRiiFQhI8F0FkuQZg",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737916f21c479444625cc802ac",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027916f21c479444625cc802ac",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517916f21c479444625cc802ac",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 205000,
+                "album": "אין לי מקום אחר",
+                "albumId": "1NAbjzBbqQuhYY9tmxblt1",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "5496lks6V3fh1mZAB6IAap",
+                "title": "Alibi (with Pabllo Vittar & Yseult)",
+                "artists": [
+                    {
+                        "name": "Sevdaliza",
+                        "spotifyId": "5MraexJKZDrQYzS98kNwie"
+                    },
+                    {
+                        "name": "Pabllo Vittar",
+                        "spotifyId": "6tzRZ39aZlNqlUzQlkuhDV"
+                    },
+                    {
+                        "name": "Yseult",
+                        "spotifyId": "1QsdzIKkTT5gDFj8GB1cIX"
+                    }
+                ],
+                "artistId": "5MraexJKZDrQYzS98kNwie",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734ee35e37bc21fe929a4d3605",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024ee35e37bc21fe929a4d3605",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514ee35e37bc21fe929a4d3605",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 161655,
+                "album": "Alibi (with Pabllo Vittar & Yseult)",
+                "albumId": "2m0euKZUDcoyEXHIS5MFCq",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "6tNQ70jh4OwmPGpYy6R2o9",
+                "title": "Beautiful Things",
+                "artists": [
+                    {
+                        "name": "Benson Boone",
+                        "spotifyId": "22wbnEMDvgVIAGdFeek6ET"
+                    }
+                ],
+                "artistId": "22wbnEMDvgVIAGdFeek6ET",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bef221ea02a821e7feeda9cf",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bef221ea02a821e7feeda9cf",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851bef221ea02a821e7feeda9cf",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 180304,
+                "album": "Beautiful Things",
+                "albumId": "29aSKB1qPEbN0Qf9OPSQpw",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1d7Ptw3qYcfpdLNL5REhtJ",
+                "title": "Taste",
+                "artists": [
+                    {
+                        "name": "Sabrina Carpenter",
+                        "spotifyId": "74KM79TiuVKeVCqs8QtB0B"
+                    }
+                ],
+                "artistId": "74KM79TiuVKeVCqs8QtB0B",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735e1ec3f6b114e4e4924f006f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e025e1ec3f6b114e4e4924f006f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048515e1ec3f6b114e4e4924f006f",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 157279,
+                "album": "Short n' Sweet",
+                "albumId": "4B4Elma4nNDUyl6D5PvQkj",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "0WAMFZu9JKJ4HN3dzzPUgI",
+                "title": "BA DA BING",
+                "artists": [
+                    {
+                        "name": "Noa Kirel",
+                        "spotifyId": "1wak0ZG1LUrZPYx8RDTQoD"
+                    }
+                ],
+                "artistId": "1wak0ZG1LUrZPYx8RDTQoD",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738f3fe7058adcbf68f64184c1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e028f3fe7058adcbf68f64184c1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048518f3fe7058adcbf68f64184c1",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 131803,
+                "album": "BA DA BING",
+                "albumId": "5UxGQi98FToYbLqzjNDtpz",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "4wEFTT1fmFfsLY1K7Y40Cy",
+                "title": "עזבת ת'בית",
+                "artists": [
+                    {
+                        "name": "Peled",
+                        "spotifyId": "26lUUiDmS9zj1LOOCkZUiS"
+                    },
+                    {
+                        "name": "Nastia Rod",
+                        "spotifyId": "3yQQWvFCAI4upNGhuUIVSS"
+                    }
+                ],
+                "artistId": "26lUUiDmS9zj1LOOCkZUiS",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732ab6f137693d0fcf542ecbe2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022ab6f137693d0fcf542ecbe2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512ab6f137693d0fcf542ecbe2",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 228234,
+                "album": "TATE WE MADE IT",
+                "albumId": "4knIoipUdeG1OeNk07EKEn",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1KMT5j1608afIjko14UBNP",
+                "title": "רק הזמן",
+                "artists": [
+                    {
+                        "name": "Jasmin Moallem",
+                        "spotifyId": "3cDi1D2FHMVgljfdB1QVgr"
+                    }
+                ],
+                "artistId": "3cDi1D2FHMVgljfdB1QVgr",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734c8cf85da72a03fd73ff2d53",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024c8cf85da72a03fd73ff2d53",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514c8cf85da72a03fd73ff2d53",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 175000,
+                "album": "רק הזמן",
+                "albumId": "63bIatX9uWOdWXiq0lxTQl",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2vR9gmLutur2qzskoEcYna",
+                "title": "חומר ממכר",
+                "artists": [
+                    {
+                        "name": "Ben Chen",
+                        "spotifyId": "0C6NuuWwuMV3uBmsFAboVl"
+                    }
+                ],
+                "artistId": "0C6NuuWwuMV3uBmsFAboVl",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739874671fceef2521d2d8bb1d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029874671fceef2521d2d8bb1d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519874671fceef2521d2d8bb1d",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 196310,
+                "album": "חומר ממכר",
+                "albumId": "0WEAhwC2G8U70VAlga0yZs",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "2fewVF6oOGKux69rHGbPMq",
+                "title": "צוחקת ובוכה",
+                "artists": [
+                    {
+                        "name": "Eden Hason",
+                        "spotifyId": "6uQl3gu1AIXyvqCAxnc2q4"
+                    }
+                ],
+                "artistId": "6uQl3gu1AIXyvqCAxnc2q4",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d686e36d2c6ec29a82cc7b0f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d686e36d2c6ec29a82cc7b0f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d686e36d2c6ec29a82cc7b0f",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 236190,
+                "album": "צוחקת ובוכה",
+                "albumId": "7qXbCrX1yBx5FvlchNFCGx",
+                "youtubeId": ""
+            },
+            {
+                "addedAt": "2024-11-18T11:00:10Z",
+                "id": "1Es7AUAhQvapIcoh3qMKDL",
+                "title": "Timeless (with Playboi Carti)",
+                "artists": [
+                    {
+                        "name": "The Weeknd",
+                        "spotifyId": "1Xyo4u8uXC1ZmMpatF05PJ"
+                    },
+                    {
+                        "name": "Playboi Carti",
+                        "spotifyId": "699OTQXzgjhIYAHMy9RyPD"
+                    }
+                ],
+                "artistId": "1Xyo4u8uXC1ZmMpatF05PJ",
+                "imgUrl": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27394f662ef3b5677376d8a78d4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0294f662ef3b5677376d8a78d4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485194f662ef3b5677376d8a78d4",
+                        "width": 64
+                    }
+                ],
+                "formalDuration": 256000,
+                "album": "Timeless",
+                "albumId": "2IRxVVqbSbqHJo8Zx50LYn",
+                "youtubeId": ""
+            }
+        ],
+        "snapshot_id": "ZzseOgAAAACOItHm4kEKudeFELp8M4Sf",
+        "lastUpdate": 1736767778634
+    }
+]
