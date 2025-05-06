@@ -9,10 +9,10 @@ import { AppFooter } from './cmps/AppFooter';
 export function App() {
   return (
     <div className="main-layout">
+      <AppHeader />
       <SideBar />
 
       <main>
-        <AppHeader />
         <Routes>
           <Route path="" element={<Home />} />
           <Route path="/playlist/:playlistId" element={<PlaylistDetails />} />
